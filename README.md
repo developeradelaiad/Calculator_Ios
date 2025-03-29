@@ -1,4 +1,4 @@
-# calluc
+# Calculator
 
 A new Flutter project.
 
@@ -14,3 +14,10 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+VIPE CODING WITH CURSOR
+
+
+https://github.com/user-attachments/assets/1780baac-540c-4e67-86b6-f09baebea49b
+
+
